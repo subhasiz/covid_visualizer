@@ -6,7 +6,7 @@ This project uses the croudsourced covid-19 informations over at www.covid19indi
 
 ## Getting Started
 
-This project is build using Python Programming language and te python 3.5+ is needed for it to run on a machine
+This project is build using Python Programming language and the python 3.5+ is needed for it to run on a machine
 ### Prerequisites
 
 Since the data is collected from an internet source,A working internet connection is necessary for the script to run
@@ -17,8 +17,12 @@ pip install pandas
 ```
 pip install plotly
 ```
+```
+apt-get install python-tk
+```
 ### Installing
 
+Please refer to the official websites of the respective packages for machine specific instructions
 
 
 ## Running the tests
@@ -41,27 +45,24 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
+* [Tkinter](https://wiki.python.org/moin/TkInter) - The Gui Creation
+* [Plotly](https://plotly.com/) - Visualisation library
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ankurjyoti Rabha** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Binish Singha** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mahmudul Hasan** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Subhasish Bora** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
