@@ -50,7 +50,6 @@ Give an example
 
 * [Tkinter](https://wiki.python.org/moin/TkInter) - The Gui Creation
 * [Plotly](https://plotly.com/) - Visualisation library
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
@@ -59,9 +58,9 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Ankurjyoti Rabha** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ankurjyoti Rabha** - *Initial work* - [update it man](https://github.com/PurpleBooth)
 * **Binish Singha** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Mahmudul Hasan** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Mahmudul Hasan** - *Initial work* - [mahmud41](https://github.com/mahmud41)
 * **Subhasish Bora** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
