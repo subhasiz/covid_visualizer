@@ -61,7 +61,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * **Ankurjyoti Rabha** - *Initial work* - [update it man](https://github.com/PurpleBooth)
 * **Binish Singha** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 * **Mahmudul Hasan** - *Initial work* - [mahmud41](https://github.com/mahmud41)
-* **Subhasish Bora** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Subhasish Bora** - *Initial work* - [subhasiz](https://github.com/subhasiz)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
