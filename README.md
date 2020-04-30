@@ -25,11 +25,12 @@ apt-get install python-tk
 Please refer to the official websites of the respective packages for machine specific instructions
 
 
-### note
+### Note
 Different systems have different default fonts and screen resolution
+
 Some specific fonts might not work on different system
 
-hop over [here](https://imgur.com/a/eiYr4dS)  To see The original GUI that we made
+Hop over [here](https://imgur.com/a/eiYr4dS)  To see The original GUI that we made
 
 ### [A snap of graph on 30-Apr-2020]
 ![](https://github.com/jec2018/covid_visualizer/blob/master/treemap.png)
