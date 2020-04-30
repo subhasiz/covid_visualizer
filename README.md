@@ -31,7 +31,8 @@ Some specific fonts might not work on different system
 
 hop over [here](https://imgur.com/a/eiYr4dS)  To see The original GUI that we made
 
-![]
+### [A snap of graph on 30-Apr-2020]
+![](https://github.com/jec2018/covid_visualizer/blob/master/treemap.png)
 
 
 
