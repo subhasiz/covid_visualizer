@@ -25,9 +25,13 @@ apt-get install python-tk
 Please refer to the official websites of the respective packages for machine specific instructions
 
 
+### note
+Different systems have different default fonts and screen resolution
+Some specific fonts might not work on different system
 
+hop over [here](https://imgur.com/a/eiYr4dS)  To see The original GUI that we made
 
-
+![]
 
 
 
