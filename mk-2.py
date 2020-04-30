@@ -1,10 +1,8 @@
 #STATEWISE GRAPHICAL REPRESENTATION OF THE COVID-19 effected people
 
-import numpy as np
 import pandas as pd
 import json
 import requests
-import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 from tkinter import *
