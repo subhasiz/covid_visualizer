@@ -1,5 +1,4 @@
-#STATEWISE GRAPHICAL REPRESENTATION OF THE COVID-19 effected people
-
+import numpy as np
 import pandas as pd
 import json
 import requests
