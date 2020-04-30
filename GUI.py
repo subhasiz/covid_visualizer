@@ -1,10 +1,11 @@
+
+#Different systems have different default fonts and screen resolution
+#Some specific fonts might not work on different system
 #STATEWISE GRAPHICAL REPRESENTATION OF THE COVID-19 effected people
 
-import numpy as np
 import pandas as pd
 import json
 import requests
-import matplotlib.pyplot as plt
 import plotly.express as px
 import plotly.graph_objects as go
 from tkinter import *
@@ -439,7 +440,7 @@ f2label4.grid(row=5, column=0)
 #----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 root.configure(bg="#323232")
-root.geometry("897x510")
+#root.geometry("897x510")
 root.iconphoto(True, PhotoImage(file='alert1.png'))
 
 root.mainloop()
