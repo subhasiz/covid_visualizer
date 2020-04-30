@@ -25,25 +25,10 @@ apt-get install python-tk
 Please refer to the official websites of the respective packages for machine specific instructions
 
 
-## Running the tests
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 
 ## Built With
@@ -71,6 +56,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* We are thankful to the Jorhat Engineering college for assigning a project to us.
+* We are thankful to the Department of Computer Science and Engineering, JEC, Specially thankful to Professor Mr. Syed Ibtisam Tauhidi Sir for his guidancce
