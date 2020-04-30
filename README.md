@@ -48,7 +48,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Ankurjyoti Rabha** - *Initial work* - [update it man](https://github.com/PurpleBooth)
+* **Ankurjyoti Rabha** - *Initial work* - [blog](jrankur.home.blog)
 * **Binish Singha** - *Initial work* - [binish07](https://github.com/binish07)
 * **Mahmudul Hasan** - *Initial work* - [mahmud41](https://github.com/mahmud41)
 * **Subhasish Bora** - *Initial work* - [subhasiz](https://github.com/subhasiz)
