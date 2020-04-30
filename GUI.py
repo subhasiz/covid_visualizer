@@ -1,3 +1,5 @@
+#Might not be responsive in other desktop resolution 
+
 #STATEWISE GRAPHICAL REPRESENTATION OF THE COVID-19 effected people
 
 import numpy as np
